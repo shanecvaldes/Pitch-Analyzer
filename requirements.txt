@@ -1,0 +1,12 @@
+numpy
+tensorflow
+pandas
+aiohttp
+bs4
+asyncio
+aiofiles
+scikit-learn
+torch
+matplotlib
+scikit-fuzzy
+plotly
